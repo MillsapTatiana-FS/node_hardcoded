@@ -1,0 +1,20 @@
+{
+  "name": "node_hardcoded",
+  "version": "1.0.0",
+  "description": "##Create you own message for your Secret Key and see the message in your console below.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MillsapTatiana-FS/node_hardcoded.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MillsapTatiana-FS/node_hardcoded/issues"
+  },
+  "homepage": "https://github.com/MillsapTatiana-FS/node_hardcoded#readme"
+}
